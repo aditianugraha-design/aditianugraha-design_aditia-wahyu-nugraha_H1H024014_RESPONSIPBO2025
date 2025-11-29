@@ -1,0 +1,10 @@
+{
+  "pokemon": {
+    "name": "Weepinbell",
+    "type": "Grass/Poison",
+    "level": 5,
+    "hp": 45,
+    "special": "Razor Leaf"
+  },
+  "history": []
+}
